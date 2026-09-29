@@ -1,0 +1,36 @@
+# --- Core Deep Learning & NLP ---
+torch>=2.2.0
+transformers>=4.38.0
+datasets>=2.17.0
+accelerate>=0.27.0
+peft>=0.8.0
+bitsandbytes>=0.42.0
+
+#--fine tunning---
+trl
+unsloth
+
+# --- LangChain & LangGraph Orchestration ---
+langchain>=0.1.10
+langchain-core>=0.1.30
+langchain-community>=0.0.25
+langgraph>=0.0.26
+
+# --- Embeddings & Vector Databases ---
+sentence-transformers>=2.5.0
+qdrant-client>=1.7.3
+chromadb>=0.4.22
+
+# --- Web Frameworks & UI (Flask or Streamlit) ---
+streamlit>=1.31.0
+Flask>=3.0.0
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+gradio
+
+# --- Utilities & Data Validation ---
+pydantic>=2.6.0
+python-dotenv>=1.0.1
+requests>=2.31.0
+numpy>=1.26.0
+pandas>=2.2.0

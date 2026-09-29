@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cbt_001",
+    "title": "5-4-3-2-1 Sensory Grounding Technique",
+    "category": "anxiety",
+    "target_condition": "anxiety",
+    "technique_type": "somatic_grounding",
+    "content": "The 5-4-3-2-1 sensory grounding technique is a somatic coping strategy designed to disrupt acute panic, dissociation, and racing anxiety by shifting focus to immediate external sensory environment.",
+    "instructions": "1. Look around and name 5 distinct things you can physically see.\n2. Reach out and touch 4 objects around you, noticing their texture and temperature.\n3. Pause and identify 3 subtle sounds in your background environment.\n4. Notice 2 things you can smell right now.\n5. Pay attention to 1 taste in your mouth.\nTake slow, deep diaphragm breaths between each sensory step.",
+    "clinical_note": "Effective for hyperarousal and panic attacks. Helps re-anchor cognitive focus in the present moment."
+  },
+  {
+    "id": "cbt_002",
+    "title": "Box Breathing (4-4-4-4 Pacing)",
+    "category": "fear",
+    "target_condition": "anxiety",
+    "technique_type": "breathwork",
+    "content": "Box breathing (equal breathing) stimulates the parasympathetic nervous system, slowing heart rate and lowering cortisol spikes during acute panic or acute fear response.",
+    "instructions": "1. Exhale completely through your mouth to empty your lungs.\n2. Inhale quietly through your nose for a slow count of 4 seconds.\n3. Hold your breath gently at the top for 4 seconds.\n4. Exhale smoothly through your mouth for 4 seconds.\n5. Hold your lungs empty at the bottom for 4 seconds.\nRepeat for 4 to 6 continuous cycles.",
+    "clinical_note": "Contraindicated for patients with hyperventilation syndrome if breath-holding induces further distress; modify to 4-second inhale and 6-second exhale instead."
+  },
+  {
+    "id": "cbt_003",
+    "title": "CBT Thought Record: Cognitive Restructuring",
+    "category": "sadness",
+    "target_condition": "depression",
+    "technique_type": "cognitive_restructuring",
+    "content": "Cognitive restructuring helps identify automatic negative thoughts (ANTs), evaluate underlying cognitive distortions (e.g., all-or-nothing thinking, catastrophizing), and construct evidence-based alternative perspectives.",
+    "instructions": "1. Identify the trigger event and write down the exact automatic negative thought (e.g., 'I fail at everything').\n2. Rate your belief in this thought from 0% to 100%.\n3. List objective facts supporting this thought.\n4. List objective facts contradicting this thought.\n5. Draft a balanced, realistic alternative thought and re-rate your emotional distress level.",
+    "clinical_note": "Avoid arguing or invalidating feelings. Focus strictly on factual evidence versus emotional assumptions."
+  },
+  {
+    "id": "cbt_004",
+    "title": "Behavioral Activation: The 5-Minute Action Rule",
+    "category": "sadness",
+    "target_condition": "depression",
+    "technique_type": "behavioral_activation",
+    "content": "Behavioral activation targets depressive withdrawal and low motivation by breaking momentum barriers into micro-commitments to restart dopamine reward feedback loops.",
+    "instructions": "1. Identify a simple, low-energy task (e.g., drinking a glass of water, wiping down a surface, stepping outside).\n2. Set a timer for strictly 5 minutes.\n3. Commit to engaging in the task for only 5 minutes without pressure to complete it.\n4. When the timer sounds, give yourself unconditional permission to pause or stop.",
+    "clinical_note": "Crucial for major depressive episodes characterized by apathy and severe fatigue."
+  },
+  {
+    "id": "cbt_005",
+    "title": "Progressive Muscle Relaxation (PMR)",
+    "category": "anger",
+    "target_condition": "stress",
+    "technique_type": "somatic_release",
+    "content": "Progressive Muscle Relaxation systematic tensing and releasing of muscle groups reduces neuromuscular strain, somatic agitation, and physical manifestations of anger.",
+    "instructions": "1. Sit comfortably and take a slow, deep breath.\n2. Tense your fist or shoulder muscles tightly for 5 seconds, feeling the tension build.\n3. Abruptly release the tension while exhaling deeply, letting the muscles go completely limp.\n4. Notice the feeling of warmth and physical contrast for 10 to 15 seconds.\n5. Move sequentially down through arms, chest, legs, and feet.",
+    "clinical_note": "Helps users channel somatic tension out of the body safely when feeling intense frustration or rage."
+  },
+  {
+    "id": "cbt_006",
+    "title": "Decatastrophizing: 'What If' Exercise",
+    "category": "fear",
+    "target_condition": "anxiety",
+    "technique_type": "cognitive_restructuring",
+    "content": "Decatastrophizing systematically dismantles catastrophic worry loops by examining worst-case, best-case, and most probable realistic outcomes.",
+    "instructions": "1. What is the absolute worst outcome you are fearing right now?\n2. If that worst-case happened, what concrete coping steps or support systems could you use?\n3. What is the absolute best-case outcome?\n4. What is the most realistic, probable outcome based on past experience?",
+    "clinical_note": "Shifts cognitive processing from emotional hypervigilance to problem-solving mode."
+  },
+  {
+    "id": "cbt_007",
+    "title": "TIPP Skill: Temperature Reset for Crisis Distress",
+    "category": "anger",
+    "target_condition": "stress",
+    "technique_type": "dbt_distress_tolerance",
+    "content": "The TIPP protocol uses physiological intervention (cold temperature sensation) to rapidly activate the mammalian dive reflex, reducing heart rate and extreme emotional arousal within seconds.",
+    "instructions": "1. Fill a bowl with cool water or take an ice pack wrapped in a soft cloth.\n2. Hold the cool surface against your cheeks and temples for 15 to 30 seconds while holding your breath gently.\n3. Slowly exhale as you lift your head back up.\n4. Observe the immediate physiological drop in heart rate and bodily tension.",
+    "clinical_note": "A Dialectical Behavior Therapy (DBT) distress tolerance tool designed for intense emotional dysregulation."
+  },
+  {
+    "id": "cbt_008",
+    "title": "Radical Acceptance Script",
+    "category": "sadness",
+    "target_condition": "depression",
+    "technique_type": "acceptance_mindfulness",
+    "content": "Radical acceptance involves accepting reality as it is without judgment or resistance, preventing secondary suffering caused by fighting unchangeable facts.",
+    "instructions": "1. Identify the situation that causes pain: 'This situation is currently happening.'\n2. Remind yourself: 'Fighting this reality does not change the facts, it only prolongs my suffering.'\n3. Repeat the grounding phrase: 'I accept this present moment as it is, even if I do not approve of or like it.'",
+    "clinical_note": "Differentiates between accepting reality and approving of it."
+  },
+  {
+    "id": "cbt_009",
+    "title": "WORRY TIME: Stimulus Control for Chronic Worry",
+    "category": "anxiety",
+    "target_condition": "anxiety",
+    "technique_type": "stimulus_control",
+    "content": "Worry Time restricts ruminative, repetitive worry to a designated 15-minute window during the day, preventing generalized anxiety from dominating all wakeful hours.",
+    "instructions": "1. Set a fixed 15-minute 'Worry Window' daily (e.g., 5:00 PM to 5:15 PM).\n2. When worries pop up during the day, briefly write them down on a paper or phone note.\n3. Tell yourself: 'I will evaluate this thought during my Worry Time at 5:00 PM.'\n4. Postpone thinking about it until that window arrives.",
+    "clinical_note": "Highly effective for Generalized Anxiety Disorder (GAD) and obsessive thought patterns."
+  },
+  {
+    "id": "cbt_0010",
+    "title": "Self-Compassion Pause (Neff Protocol)",
+    "category": "sadness",
+    "target_condition": "depression",
+    "technique_type": "mindfulness",
+    "content": "The Self-Compassion Pause counters harsh self-criticism, guilt, and shame by activating self-soothing neural pathways.",
+    "instructions": "1. Place both hands gently over your heart or abdomen to anchor physical touch.\n2. Acknowledge: 'This is a moment of distress and pain.'\n3. Remind yourself: 'Struggle and pain are part of shared human experience; I am not alone.'\n4. Repeat to yourself: 'May I be kind and patient with myself right now.'",
+    "clinical_note": "Targeted at patients struggling with harsh inner critics and perfectionism."
+  },
+  {
+    "id": "cbt_0011",
+    "title": "Leaves on a Stream (Defusion Exercise)",
+    "category": "anxiety",
+    "target_condition": "anxiety",
+    "technique_type": "acceptance_commitment_therapy",
+    "content": "Cognitive defusion helps users step back and observe intrusive thoughts as transient mental events rather than absolute facts or commands.",
+    "instructions": "1. Close your eyes and visualize a gently flowing stream with green leaves floating along the surface.\n2. Every time a distressing thought or feeling enters your mind, place it on top of a leaf.\n3. Watch the leaf float down the stream and out of sight without trying to stop, push, or analyze it.\n4. If your mind strays, gently bring your focus back to the stream.",
+    "clinical_note": "Core Acceptance and Commitment Therapy (ACT) technique for obsessive or intrusive thoughts."
+  },
+  {
+    "id": "cbt_0012",
+    "title": "4-7-8 Relaxing Breath Routine",
+    "category": "fear",
+    "target_condition": "stress",
+    "technique_type": "breathwork",
+    "content": "Dr. Andrew Weil's 4-7-8 breathing method acts as a natural tranquilizer for the nervous system, helping lower heart rate and prepare the mind for sleep or deep rest.",
+    "instructions": "1. Exhale completely through your mouth making a gentle 'whoosh' sound.\n2. Close your mouth and inhale quietly through your nose for 4 seconds.\n3. Hold your breath gently for a count of 7 seconds.\n4. Exhale completely through your mouth for 8 seconds with a 'whoosh' sound.\nRepeat for 4 complete breath cycles.",
+    "clinical_note": "Ideal for evening anxiety, insomnia, or transition periods after stressful events."
+  }
+]

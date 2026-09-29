@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CBT Clinical Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <header class="chat-header">
+            <h2>Clinical CBT Assistant</h2>
+            <span class="status-indicator">Layer 4 LangGraph Active</span>
+        </header>
+
+        <main class="chat-box" id="chatBox">
+            <div class="message system-message">
+                Hello. I am your evidence-based CBT assistant. How are you feeling today?
+            </div>
+        </main>
+
+        <footer class="chat-footer">
+            <form id="chatForm">
+                <input type="text" id="userInput" placeholder="Type your message..." autocomplete="off" required>
+                <button type="submit" id="sendBtn">Send</button>
+            </form>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

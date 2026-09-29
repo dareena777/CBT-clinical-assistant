@@ -1,0 +1,6 @@
+myvenv/
+chroma_db/
+finetuned_cbt_model/
+.DS_Store
+*.pyc
+__pycache__/
